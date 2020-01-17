@@ -1,0 +1,10 @@
+Comandos terminal 
+
+Dir gcc -o "nomeDoArquivo" "NomeDoArquivo.c"  copilar 
+
+./"NomeDoArquivo" para executar
+
+/* */ comentarios abre e fecha
+// do inicio  ate o fim da linha
+
+

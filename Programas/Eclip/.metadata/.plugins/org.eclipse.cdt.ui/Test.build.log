@@ -1,0 +1,8 @@
+
+**** Build of configuration Debug for project Test ****
+
+**** Internal Builder is used for build               ****
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -otest.o ..\test.c
+Internal Builder: Cannot run program "gcc" (in directory "C:\Users\User\Desktop\facudade\Programações\Programas\Eclip\Test\Debug"): CreateProcess error=2, O sistema não pode encontrar o arquivo especificado
+Build error occurred, build is stopped
+Time consumed: 15  ms.  

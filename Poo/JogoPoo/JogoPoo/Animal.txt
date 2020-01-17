@@ -1,0 +1,8 @@
+javali
+5
+cachorro
+2
+gato
+3
+pombo
+2

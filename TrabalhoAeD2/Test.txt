@@ -1,0 +1,1 @@
+GET "ola"INSERT "faca"INSERT "la"DELETE "carrinho"

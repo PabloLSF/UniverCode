@@ -1,0 +1,6 @@
+all:
+	gfortran -free -c MATR.f
+	gcc -c random.c
+	gfortran -o MATR-gcc MATR.o random.o
+	
+        ./MAR-gcc

@@ -1,0 +1,15 @@
+int menu(void);
+void lerDadotxt(char *nome_aqr);
+void locar (void);
+int buscaPorCod(int *cod);
+void ler_string(char palavra[100], int tamanho);
+void GravarDadosTxT(char *nome_arq);
+void entrega (void);
+void Buscacod (void);
+void ImprimePorNome(void);
+int BuscaPorNome(char *nome);
+void BuscaAno (void);
+int buscaPorano(int *ano);
+void ImprimePorGenero(void);
+int ProcuraPorGenero(char *str);
+void impress(void);

@@ -1,0 +1,17 @@
+void cria_lista(void);
+void insere(void);
+void apaga(void);
+void imprime(void);
+int menu(void);
+int livre(void);
+void ler_string(char palavra[100], int tamanho);
+int BuscaPorNome(char *nome);
+void ApagaPorNome(void);
+int ProcuraPorNomes(char *str,int *posicoes);
+void ImprimeListaDeNomes(void);
+int OrdenaPorNome(int *posicoes);
+void ImprimeOrdenaPorNome(void);
+void GravarDadosBin(char *nome_arq);
+void lerDadoBin(char *nome_aqr);
+void GravarDadosTxT(char *nome_arq);
+void lerDadotxt(char *nome_aqr);
